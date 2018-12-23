@@ -1,6 +1,5 @@
 # Program perkalian dua pecahan
 
-
 Coding program lengkap
 
     #include <stdio.h>
@@ -15,10 +14,6 @@ Coding program lengkap
     printf ("%.2f*%.2f = %.2f",p1,p2,hasil);
     getch ();
     }
-
-
-
-
 
 
 Hasil program
